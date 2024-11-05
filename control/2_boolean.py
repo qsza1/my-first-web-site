@@ -1,3 +1,0 @@
-print(True)
-print(False)
-
